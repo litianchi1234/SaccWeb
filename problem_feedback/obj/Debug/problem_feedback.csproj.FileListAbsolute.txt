@@ -1,0 +1,5 @@
+c:\users\litianchi\documents\visual studio 2012\Projects\problem_feedback\problem_feedback\bin\problem_feedback.dll
+c:\users\litianchi\documents\visual studio 2012\Projects\problem_feedback\problem_feedback\bin\problem_feedback.pdb
+c:\users\litianchi\documents\visual studio 2012\Projects\problem_feedback\problem_feedback\obj\Debug\problem_feedback.csprojResolveAssemblyReference.cache
+c:\users\litianchi\documents\visual studio 2012\Projects\problem_feedback\problem_feedback\obj\Debug\problem_feedback.dll
+c:\users\litianchi\documents\visual studio 2012\Projects\problem_feedback\problem_feedback\obj\Debug\problem_feedback.pdb
